@@ -14,4 +14,4 @@ ST1630 Sistemas Intensivos en Datos · Universidad EAFIT · Proyecto final
 |---|---|
 | Documento (5 secciones + anexos) | `docs/entregable1/e1_centinela.pdf` |
 | Diagrama de arquitectura | `docs/entregable1/arquitectura.png` |
-| Diagrama editable (draw.io) | `docs/entregable1/arquitectura.drawio` · enlace en `docs/entregable1/fuente/enlace_drawio.txt` |
+| Diagrama editable (draw.io) | `docs/entregable1/arquitectura.drawio` |
